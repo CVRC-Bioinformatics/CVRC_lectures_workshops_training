@@ -32,7 +32,7 @@ Speaker: Juan Felipe Beltrán, PhD
 
 * February 24th, 2020: "Introduction to RNA-seq Analysis"  
 Speaker: Florencia Schlamp, PhD
-   * [see slides]([see slides](https://github.com/CVRC-Bioinformatics/CVRC_lectures_workshops_training/blob/master/Lectures%20and%20Seminars/1_Intro-to-RNAseq-Analysis.pdf)  
+   * [see slides](https://github.com/CVRC-Bioinformatics/CVRC_lectures_workshops_training/blob/master/Lectures%20and%20Seminars/1_Intro-to-RNAseq-Analysis.pdf)  
 
 
 
